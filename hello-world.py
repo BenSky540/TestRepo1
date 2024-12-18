@@ -1,2 +1,7 @@
-print("Previously it said Hello here, now I have made an update.")
-print("If you are reading this then changes have been pushed to github.")
+print("Now I'm doing another commit in the test branch.")
+print("Have a list of variables.")
+
+my_string = "Hello"
+my_string2 = "World"
+
+my_int = 200
